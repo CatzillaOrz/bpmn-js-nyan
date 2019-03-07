@@ -48,6 +48,7 @@ var bpmnJS = new BpmnModeler({
 To build, lint and test the project run
 
 ```
+nvm use 6.9.2
 npm install
 npm run all
 ```
